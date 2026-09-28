@@ -35,3 +35,4 @@
 | [2025. Vol. 4](https://kros.org/board/board.asp?b_code=2488&Action=content&B_CATE=BBS5) | [실시간 시스템 관점에의 로봇 제어 소프트웨어 아키텍처](https://kros.org/board/board.asp?b_code=2483&Action=content&B_CATE=BBS7) | 명지대학교 델가도 라이마리우스 |
 | [2026. Vol. 1](https://kros.org/board/board.asp?b_code=2510&Action=content&B_CATE=BBS5) | [로봇의 정교한 행동을 가능하게 하는 3D 센싱의 역할](https://kros.org/board/board.asp?b_code=2503&Action=content&B_CATE=BBS7) | 연세대학교 현재상 |
 | [2026. Vol. 2](https://kros.org/board/board.asp?b_code=2525&Action=content&B_CATE=BBS5) | [로봇-비전의 올바른 결합 방법과 수학적·확률론적 근거](https://kros.org/board/board.asp?b_code=2523&Action=content&B_CATE=BBS7) | UNIST 하준형 |
+| [2026. Vol. 3](https://kros.org/board/board.asp?b_code=2541&Action=content&B_CATE=BBS5) | [비정형 환경에서 사람의 능력을 뛰어넘는 로봇: 고적응성 구조를 이용한 하드웨어 혁신에 대하여](https://kros.org/board/board.asp?b_code=2537&Action=content&B_CATE=BBS7) | 서강대학교 송성혁 |
